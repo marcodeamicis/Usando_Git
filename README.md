@@ -5,3 +5,5 @@ Primeira alteração
 Adicionando uma linha
 
 Nova alteração
+
+Outra alteração
